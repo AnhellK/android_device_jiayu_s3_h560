@@ -50,8 +50,8 @@ TARGET_KERNEL_SOURCE := kernel/jiayu/s3_h560
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_CONFIG := h560_defconfig
-TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-common-linux-android-
-KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/aarch64-linux-android/bin
+TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-opt-linux-android-
+KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/aarch64-linux-android-opt-gnu-8.x/bin
 MTK_APPENDED_DTB_SUPPORT := yes
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 
