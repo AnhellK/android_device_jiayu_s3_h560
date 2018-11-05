@@ -34,7 +34,6 @@ ro.config.media_vol_steps=30
 # Camera
 ro.camera.sound.forced=0
 camera.disable_zsl_mode=1
-ro.media.enc.jpeg.quality=100
 
 # Storage
 ro.sys.sdcardfs=true
@@ -49,4 +48,3 @@ debug.hwui.use_buffer_age=false
 
 # Device
 ro.product.first_api_level=22
-dalvik.vm.execution-mode=int:fast
