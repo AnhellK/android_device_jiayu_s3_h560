@@ -122,7 +122,7 @@
 /* Normal volume: TON, SPK, MIC, FMR, SPH, SID, MED */
 
 #define GAIN_NOR_TON_VOL      8
-#define GAIN_NOR_KEY_VOL      86
+#define GAIN_NOR_KEY_VOL      43
 #define GAIN_NOR_MIC_VOL      26
 #define GAIN_NOR_FMR_VOL      0
 #define GAIN_NOR_SPH_VOL      20
@@ -134,7 +134,7 @@
 /* Headset volume: TON, SPK, MIC, FMR, SPH, SID, MED */
 
 #define GAIN_HED_TON_VOL      8
-#define GAIN_HED_KEY_VOL      43
+#define GAIN_HED_KEY_VOL      24
 #define GAIN_HED_MIC_VOL      20
 #define GAIN_HED_FMR_VOL      24
 #define GAIN_HED_SPH_VOL      12
@@ -145,7 +145,7 @@
 /* Handfree volume: TON, SPK, MIC, FMR, SPH, SID, MED */
 
 #define GAIN_HND_TON_VOL      8
-#define GAIN_HND_KEY_VOL      43
+#define GAIN_HND_KEY_VOL      24
 #define GAIN_HND_MIC_VOL      20
 #define GAIN_HND_FMR_VOL      24
 #define GAIN_HND_SPH_VOL      12
