@@ -7,8 +7,6 @@
 dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/boot      /boot             emmc         defaults                     defaults
 dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/nvram        /nvram            emmc         defaults                     defaults
 dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/recovery     /recovery         emmc         defaults                     defaults
-dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/OTA     /misc         emmc         defaults                     defaults
-
 
 dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/system       /system       ext4      ro,noatime          wait
 dev/block/platform/mtk-msdc.0/11230000.MSDC0/by-name/cache      /cache       f2fs    nosuid,nodev,noatime,inline_xattr                           wait,check,formattable
